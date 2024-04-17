@@ -1,0 +1,85 @@
+├───dataset
+│   ├───data
+│   │   ├───test
+│   │   │   ├───neelraj
+│   │   │   ├───pradeep
+│   │   │   ├───shyam
+│   │   │   └───sudeesh
+│   │   └───train
+│   │       ├───guru
+│   │       ├───neelraj
+│   │       ├───pradeep
+│   │       ├───shyam
+│   │       └───sudeesh
+│   ├───intial_model
+│   └───runs
+│       └───classify
+│           ├───train
+│           │   └───weights
+│           ├───train2
+│           │   └───weights
+│           ├───train22
+│           ├───train3
+│           │   └───weights
+│           ├───train32
+│           │   └───weights
+│           ├───train322
+│           │   └───weights
+│           ├───train4
+│           │   └───weights
+│           └───train5
+│               └───weights
+├───detected_faces
+├───EmotionDetection
+│   ├───final
+│   │   ├───archive
+│   │   ├───data
+│   │   │   ├───test
+│   │   │   │   ├───guru
+│   │   │   │   ├───neelraj
+│   │   │   │   ├───pradeep
+│   │   │   │   ├───shyam
+│   │   │   │   └───sudeesh
+│   │   │   └───train
+│   │   │       ├───guru
+│   │   │       ├───neelraj
+│   │   │       ├───pradeep
+│   │   │       ├───shyam
+│   │   │       └───sudeesh
+│   │   ├───intial_model
+│   │   ├───runs
+│   │   │   └───classify
+│   │   │       ├───train
+│   │   │       │   └───weights
+│   │   │       ├───train2
+│   │   │       │   └───weights
+│   │   │       ├───train22
+│   │   │       ├───train3
+│   │   │       │   └───weights
+│   │   │       ├───train32
+│   │   │       │   └───weights
+│   │   │       ├───train322
+│   │   │       │   └───weights
+│   │   │       ├───train4
+│   │   │       │   └───weights
+│   │   │       ├───train5
+│   │   │       │   └───weights
+│   │   │       └───train6
+│   │   │           └───weights
+│   │   └───tests
+│   └───model
+├───Face-Recognition-LBPH-master
+│   └───Face-Recognition-LBPH-master
+├───new_try
+│   ├───dataset
+│   ├───deepak
+│   ├───guru
+│   ├───neelraj
+│   ├───pradeep
+│   ├───pradeep2
+│   ├───shyam
+│   ├───sudeesh
+│   └───trainer
+└───source-code-face-recognition
+    └───source code
+        └───images
